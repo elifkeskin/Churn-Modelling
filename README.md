@@ -87,7 +87,7 @@ The dataset contains 10,000 bank customers and the following features:
 
 2. **Install dependencies:**
     - Python 3.8+
-    - pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, lightgbm (if used), jupyter
+    - pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, jupyter
 
     ```bash
     pip install -r requirements.txt
@@ -104,9 +104,13 @@ The dataset contains 10,000 bank customers and the following features:
 - Customers from certain countries, older age groups, and those with higher balances but low activity are more likely to churn.
 
 ## Project Structure
+
 ├── 02_classification_churn_10K.ipynb # Main analysis notebook
+
 ├── data/ # (Optional) Data files
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
