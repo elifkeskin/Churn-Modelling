@@ -99,7 +99,7 @@ The dataset contains 10,000 bank customers and the following features:
 
 ## Results
 
-- The best performing model achieved an ROC-AUC of **X.XX** and an accuracy of **XX%** on the test set.
+- The best performing model achieved an ROC-AUC of **0.85** .
 - Key drivers of churn include: `Geography`, `Age`, `Balance`, `IsActiveMember`, and `NumOfProducts`.
 - Customers from certain countries, older age groups, and those with higher balances but low activity are more likely to churn.
 
