@@ -81,8 +81,8 @@ The dataset contains 10,000 bank customers and the following features:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/bank-churn-prediction.git
-    cd bank-churn-prediction
+    git clone https://github.com/elifkeskin/Churn-Modelling.git
+    cd Churn-Modelling
     ```
 
 2. **Install dependencies:**
